@@ -22,7 +22,7 @@ A simple ATM simulator built using PyQt6 for the Advanced Programming course. Th
 1. Clone the repository:
 
    ```bash
-   git clone <repository-url>
+   git clone https://github.com/matinmhmmdii/ATM2
    ```
 2. Install dependencies:
 
